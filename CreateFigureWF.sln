@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateFigureWF", "CreateFigureWF\CreateFigureWF.csproj", "{8A2138AA-088E-4557-86A4-4B7000A1A217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRfg", "CRfg\CRfg.csproj", "{98442782-B7E8-40C9-BD85-64ABC10F91BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2138AA-088E-4557-86A4-4B7000A1A217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2138AA-088E-4557-86A4-4B7000A1A217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2138AA-088E-4557-86A4-4B7000A1A217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2138AA-088E-4557-86A4-4B7000A1A217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98442782-B7E8-40C9-BD85-64ABC10F91BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98442782-B7E8-40C9-BD85-64ABC10F91BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98442782-B7E8-40C9-BD85-64ABC10F91BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98442782-B7E8-40C9-BD85-64ABC10F91BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87481D19-027F-48FA-A232-AB97E6519A7A}
+	EndGlobalSection
+EndGlobal
