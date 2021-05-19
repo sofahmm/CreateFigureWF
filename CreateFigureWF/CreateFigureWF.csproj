@@ -87,6 +87,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_circle.resx">
+      <DependentUpon>frm_circle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_line.resx">
+      <DependentUpon>frm_line.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_point.resx">
       <DependentUpon>frm_point.cs</DependentUpon>
     </EmbeddedResource>
